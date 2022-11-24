@@ -1,0 +1,2 @@
+# Frame#, accumulative double count
+6 0

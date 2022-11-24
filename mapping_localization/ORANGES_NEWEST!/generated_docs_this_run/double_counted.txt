@@ -1,0 +1,7 @@
+# Frame#, accumulative double count
+4 1
+5 3
+6 6
+376 7
+377 9
+378 10
